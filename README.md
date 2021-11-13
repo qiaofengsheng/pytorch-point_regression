@@ -1,0 +1,2 @@
+# pytorch-point_regression
+基于pytorch的关键点回归的两种方法：直接回归和heatmap热力图法
